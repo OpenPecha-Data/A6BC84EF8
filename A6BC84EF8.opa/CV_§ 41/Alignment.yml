@@ -1,0 +1,18 @@
+segment_sources:
+  P28C5C558:
+    type: origin_type
+    relation: translation
+    language: sa
+  P2DB71EFD:
+    type: origin_type
+    relation: translation
+    language: bo
+  P06276882:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  769b3e7a1d4a436386c062571573e07c:
+    P28C5C558: 32897691b27b444fa087fe96eedcc30e
+    P2DB71EFD: 8574222c30814a49bb8a0c5e61045668
+    P06276882: 46fc4017a97349718672c0ca8e1307d1
